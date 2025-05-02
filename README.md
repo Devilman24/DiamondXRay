@@ -34,13 +34,13 @@ pip install -r requirements.txt
 
 ### Interactive Mode
 ```bash
-python3 diamondxray.py
+python3 abstract.py
 ```
 
 ### Complete Example
 ```text
 ┌──(user㉿host)-[~/DiamondXRay]
-└─$ python3 diamondxray.py
+└─$ python3 abstract.py
 
 Enter text to decode (or 'quit' to exit): JXZlciBkZWNvZGVkIQ==
 
@@ -61,7 +61,7 @@ Text analysis: 'JXZlciBkZWNvZGVkIQ=='
 
 ### Direct Decoding
 ```bash
-python3 diamondxray.py "Your encoded text"
+python3 abstract.py "Your encoded text"
 ```
 
 ### Module Usage
