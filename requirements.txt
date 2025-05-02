@@ -1,0 +1,6 @@
+# All modules used (even standard ones)
+base64
+binascii
+re
+typing
+urllib
